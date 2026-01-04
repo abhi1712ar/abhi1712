@@ -26,13 +26,6 @@ Currently focusing on ASP.NET Core and backend development.
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
-<h3>📊 GitHub Summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi1712ar&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi1712ar&show_icons=true&hide_border=true)
-
 
 ---
 
