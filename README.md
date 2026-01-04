@@ -27,12 +27,12 @@ Currently focusing on ASP.NET Core and backend development.
 </p>
 
 ---
+<h3>📊 GitHub Summary</h3>
 
-<h3>My GitHub contributions summary</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi1712ar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi1712ar&theme=dark&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi1712ar&show_icons=true&hide_border=true)
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi1712ar&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
 ---
 
